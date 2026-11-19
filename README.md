@@ -1,5 +1,7 @@
 # Bilingual AI Water Complaint Assistant
 
+**Live demo:** [bilingual-ai-water-complaints.netlify.app](https://bilingual-ai-water-complaints.netlify.app)
+
 **Bangla · English** &nbsp;|&nbsp; AI voice reporting &nbsp;|&nbsp; Netlify + Groq Whisper
 
 *In-app Bangla name: জলসেবা সহায়ক (WaterCare Assistant)*
