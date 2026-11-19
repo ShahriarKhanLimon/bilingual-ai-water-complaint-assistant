@@ -1,0 +1,12 @@
+{
+  "name": "bilingual-ai-water-complaint-assistant",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bilingual (Bangla and English) AI voice assistant for water complaint reporting and tracking, with speech transcribed by Groq Whisper",
+  "scripts": {
+    "dev": "npx netlify-cli dev"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

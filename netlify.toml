@@ -1,0 +1,9 @@
+[build]
+  # Only the public/ folder is served, so .env, README and function code are never exposed as static files
+  publish = "public"
+  functions = "netlify/functions"
+
+[[redirects]]
+  from = "/api/transcribe"
+  to = "/.netlify/functions/transcribe"
+  status = 200

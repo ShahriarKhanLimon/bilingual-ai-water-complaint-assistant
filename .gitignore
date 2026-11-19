@@ -1,0 +1,13 @@
+# Secrets: never commit these
+.env
+.env.*
+!.env.example
+
+# Netlify local state and dependencies
+.netlify
+node_modules
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode
